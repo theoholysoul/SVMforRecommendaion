@@ -1,0 +1,38 @@
+accuracy_score(y_test, predictions)
+Accuracy: 0.668335001668
+
+Classification Report  precision    recall  f1-score   support
+
+    Unknown       0.99      1.00      0.99       249
+   abeatriz       0.75      0.45      0.56        20
+      admin       0.98      1.00      0.99        85
+      btang       1.00      1.00      1.00        87
+caquilinger       0.62      0.77      0.69        31
+cmartinezvi       0.75      0.33      0.46         9
+      czhai       1.00      1.00      1.00        34
+dzermenodia       0.82      0.62      0.71        37
+    emaroon       0.59      0.71      0.64       243
+    fcannon       0.53      0.74      0.62        74
+ fpolverari       0.76      0.34      0.47        38
+   gmarques       0.83      0.62      0.71         8
+     htseng       0.49      0.55      0.52       174
+       hwei       0.82      0.69      0.75        13
+    jbrodie       0.70      0.65      0.68       153
+   jgristey       0.45      0.31      0.37        16
+   jnanteza       0.46      0.69      0.55       200
+  jteixeira       1.00      1.00      1.00        57
+      kneff       0.00      0.00      0.00        39
+    ksauter       0.55      0.54      0.54       201
+   kwillmot       0.58      0.46      0.51       189
+     kzhang       0.91      0.48      0.62        42
+        lei       1.00      0.98      0.99       158
+   mclavner       1.00      1.00      1.00         6
+      mlinz       0.47      0.42      0.44       146
+      mroge       0.86      0.92      0.89        13
+     nkille       0.29      0.02      0.03       125
+ochimborazo       0.68      0.67      0.67       195
+  rbuchholz       0.58      0.72      0.64       355
+
+avg / total       0.66      0.67      0.65      2997
+
+
