@@ -1,0 +1,374 @@
+User,Dataset Name,Num_Times_Used
+czhai,interim Relative Humidity,2
+czhai,AIRS Near-Surface Air Temperature,1
+czhai,CERES Surface Upwelling Longwave Radiation,1
+czhai,ESM2G Relative Humidity,3
+czhai,interim Eastward Near-Surface Wind,1
+czhai,AMSRE Sea Surface Temperature,2
+czhai,CAM5 Cloud Ice Water Content,2
+czhai,ESM2G Total Cloud Fraction,2
+czhai,ESM2G Precipitation Flux,5
+czhai,CAM5 Precipitation Flux,1
+lei,ESM2G Precipitation Flux,40
+admin,ESM2G Precipitation Flux,40
+admin,ESM2G Total Cloud Fraction,14
+admin,ESM2G Surface Temperature,2
+admin,ESM2G Eastward Near-Surface Wind,1
+admin,ESM2G Air Temperature,2
+lei,MLS Air Temperature,13
+lei,MLS Specific Humidity,2
+lei,ARGO Ocean Temperature,38
+lei,ESM2G Near-Surface Wind Speed,1
+lei,ARGO Ocean Salinity,4
+lei,CM3 Precipitation Flux,1
+lei,ESM2G Total Cloud Fraction,7
+btang,ESM2G Precipitation Flux,26
+btang,ESM2G Surface Temperature,2
+btang,MLS Air Temperature,1
+btang,CANAM4 Precipitation Flux,1
+btang,E2-H Precipitation Flux,3
+btang,E2-R Precipitation Flux,2
+btang,interim Total Cloud Fraction,1
+btang,ESM2G Total Cloud Fraction,5
+admin,E2-H Precipitation Flux,1
+admin,E2-H Total Cloud Fraction,1
+czhai,ESM2G Surface Temperature,1
+czhai,HadGEM2-ES Surface Temperature,1
+czhai,ESM2G Eastward Near-Surface Wind,1
+czhai,ESM2G Northward Near-Surface Wind,1
+lei,E2-R Precipitation Flux,1
+lei,ESM2G Air Temperature,19
+czhai,ESM2G Specific Humidity,2
+czhai,ESM2G Air Temperature,2
+lei,CANAM4 Air Temperature,1
+czhai,NORESM Relative Humidity,3
+czhai,NORESM Specific Humidity,3
+czhai,NORESM Air Temperature,3
+lei,ESM2G Surface Downwelling Longwave Radiation,1
+lei,ESM2G Surface Temperature,9
+lei,E2-H Sea Surface Temperature,2
+lei,ESM2G Sea Surface Temperature,3
+lei,ESM2G Vertical Wind Velocity,1
+czhai,ARGO Ocean Temperature,1
+lei,ESM2G TOA Outgoing Longwave Radiation,3
+lei,MODIS Total Cloud Fraction,2
+lei,ESM2G Surface Upwelling Longwave Radiation,2
+lei,E2-H Surface Temperature,1
+lei,E2-H Cloud Ice Water Content,1
+lei,MIROC5 Surface Downwelling Longwave Radiation,1
+lei,GPCP Precipitation Flux,2
+lei,MIROC5 Relative Humidity,1
+lei,ESM2G Cloud Ice Water Content,1
+btang,ARGO Ocean Temperature,6
+lei,E2-H Air Temperature,2
+btang,AVISO Sea Surface Height,1
+jteixeira,ESM2G Precipitation Flux,6
+jteixeira,ESM2G Air Temperature,2
+jteixeira,ARGO Ocean Temperature,1
+jteixeira,ESM2G Sea Surface Temperature,3
+jteixeira,ESM2G Total Cloud Fraction,13
+jteixeira,ESM2G Near-Surface Wind Speed,6
+jteixeira,ESM2G Surface Temperature,7
+jteixeira,ESM2G Northward Near-Surface Wind,1
+jteixeira,ESM2G Eastward Near-Surface Wind,1
+admin,ESM2G Near-Surface Wind Speed,2
+admin,ESM2G Sea Surface Temperature,4
+btang,ESM2G Air Temperature,1
+jteixeira,ESM2G Vertical Wind Velocity,4
+btang,ESM2G Eastward Near-Surface Wind,2
+btang,ESM2G Sea Surface Temperature,4
+btang,ESM2G Near-Surface Wind Speed,7
+jteixeira,MODIS Total Cloud Fraction,3
+jteixeira,TRMM Precipitation Flux,2
+fcannon,ESM2G Precipitation Flux,15
+fcannon,CAM5 Precipitation Flux,3
+fcannon,GRACE Equivalent Water Height Over Land,2
+kwillmot,TRMM Precipitation Flux,41
+fcannon,MODIS Total Cloud Fraction,2
+kwillmot,GPCP Precipitation Flux,5
+btang,ESM2G Northward Near-Surface Wind,3
+nkille,GRACE Equivalent Water Height Over Land,30
+kwillmot,MODIS Leaf Area Index,68
+nkille,CAM5 Total Cloud Fraction,1
+nkille,MODIS Leaf Area Index,42
+jnanteza,CAM5 Precipitation Flux,1
+nkille,ESM2G Air Temperature,1
+ksauter,ESM2G Precipitation Flux,3
+jgristey,ESM2G Precipitation Flux,2
+caquilinger,ESM2G Precipitation Flux,4
+jgristey,CERES TOA Outgoing Shortwave Radiation,4
+fpolverari,ESM2G Precipitation Flux,6
+jnanteza,GRACE Equivalent Water Height Over Land,134
+kneff,GRACE Equivalent Water Height Over Land,27
+jnanteza,GRACE Equivalent Water Height Over Ocean,1
+ksauter,MODIS Total Cloud Fraction,62
+kwillmot,CERES Surface Downwelling Shortwave Radiation,13
+ksauter,AMSRE Sea Surface Temperature,46
+emaroon,ESM2G Sea Surface Temperature,4
+jgristey,CERES TOA Incident Shortwave Radiation,5
+emaroon,ESM2G Precipitation Flux,7
+emaroon,TRMM Precipitation Flux,28
+ksauter,TRMM Precipitation Flux,26
+rbuchholz,GRACE Equivalent Water Height Over Land,62
+caquilinger,ARGO Ocean Temperature,17
+kwillmot,GRACE Equivalent Water Height Over Land,18
+nkille,GRACE Equivalent Water Height Over Ocean,1
+jnanteza,TRMM Precipitation Flux,19
+emaroon,GPCP Precipitation Flux,67
+rbuchholz,TRMM Precipitation Flux,102
+abeatriz,AMSRE Sea Surface Temperature,2
+jnanteza,MODIS Total Cloud Fraction,8
+caquilinger,ESM2G Air Temperature,3
+jteixeira,GRACE Equivalent Water Height Over Land,5
+htseng,GRACE Equivalent Water Height Over Land,61
+kneff,interim Sea Surface Temperature,1
+jteixeira,GRACE Equivalent Water Height Over Ocean,1
+jnanteza,interim Sea Surface Temperature,1
+htseng,CERES Surface Downwelling Longwave Radiation,4
+btang,GRACE Equivalent Water Height Over Land,18
+ksauter,CERES TOA Incident Shortwave Radiation,4
+ksauter,interim Total Cloud Fraction,1
+emaroon,GRACE Equivalent Water Height Over Land,1
+htseng,TRMM Precipitation Flux,99
+emaroon,MODIS Total Cloud Fraction,69
+fcannon,HadGEM2-A Precipitation Flux,1
+jgristey,CERES TOA Outgoing Longwave Radiation,2
+ksauter,CERES Surface Upwelling Shortwave Radiation,8
+caquilinger,AMSRE Sea Surface Temperature,1
+fcannon,ESM2G Sea Surface Temperature,11
+jbrodie,CANAM4 Total Cloud Fraction,2
+ksauter,CERES Surface Downwelling Longwave Radiation,11
+jbrodie,TRMM Precipitation Flux,34
+mlinz,ESM2G Precipitation Flux,5
+abeatriz,interim Sea Surface Temperature,4
+jbrodie,CANAM4 Precipitation Flux,5
+ksauter,CERES Surface Upwelling Longwave Radiation,1
+mlinz,GPCP Precipitation Flux,11
+mlinz,TRMM Precipitation Flux,53
+jnanteza,MODIS Leaf Area Index,18
+ksauter,CERES Surface Upwelling Clear-Sky Shortwave Radiation,1
+kwillmot,GRACE Equivalent Water Height Over Ocean,1
+mlinz,MODIS Total Cloud Fraction,29
+ksauter,CERES Surface Downwelling Shortwave Radiation,8
+jnanteza,ESM2G Precipitation Flux,6
+jbrodie,ESM2G Precipitation Flux,37
+kwillmot,AIRS Near-Surface Air Temperature,28
+fcannon,E2-H Precipitation Flux,7
+fpolverari,TRMM Precipitation Flux,13
+fcannon,NORESM Precipitation Flux,3
+fcannon,HadGEM2-ES Precipitation Flux,1
+rbuchholz,AIRS Near-Surface Air Temperature,25
+rbuchholz,MODIS Leaf Area Index,129
+ksauter,interim Sea Surface Temperature,2
+nkille,AIRS Near-Surface Air Temperature,19
+fcannon,TRMM Precipitation Flux,5
+kwillmot,AIRS Air Temperature,11
+jbrodie,GPCP Precipitation Flux,1
+fpolverari,QuikSCAT Eastward Near-Surface Wind,3
+fpolverari,QuikSCAT Near-Surface Wind Speed,3
+jbrodie,HadGEM2-ES Precipitation Flux,4
+htseng,ESM2G Precipitation Flux,5
+jbrodie,E2-H Precipitation Flux,6
+nkille,ESM2G Precipitation Flux,3
+jbrodie,NORESM Precipitation Flux,2
+fcannon,ESM2G Surface Temperature,2
+jbrodie,CAM5 Precipitation Flux,4
+kneff,TRMM Precipitation Flux,3
+jbrodie,E2-R Precipitation Flux,2
+ksauter,GPCP Precipitation Flux,13
+fcannon,E2-H Sea Surface Temperature,4
+fcannon,CAM5 Sea Surface Temperature,3
+emaroon,AMSRE Sea Surface Temperature,20
+jgristey,CERES Surface Downwelling Longwave Radiation,1
+fcannon,NORESM Sea Surface Temperature,2
+kneff,MODIS Leaf Area Index,5
+nkille,TRMM Precipitation Flux,20
+fcannon,HadGEM2-ES Sea Surface Temperature,1
+nkille,CERES Surface Downwelling Shortwave Radiation,8
+kneff,CERES Surface Downwelling Longwave Radiation,1
+rbuchholz,CERES Surface Downwelling Longwave Radiation,5
+rbuchholz,CERES Surface Downwelling Shortwave Radiation,17
+kneff,CERES Surface Downwelling Shortwave Radiation,3
+emaroon,AIRS Specific Humidity,2
+mlinz,AMSRE Sea Surface Temperature,23
+ksauter,ARGO Ocean Temperature,5
+jbrodie,MK3.6 Precipitation Flux,1
+jbrodie,CM3 Precipitation Flux,1
+jbrodie,CM5A-LR Precipitation Flux,1
+jbrodie,MIROC5 Precipitation Flux,4
+rbuchholz,GPCP Precipitation Flux,4
+jbrodie,HadGEM2-A Precipitation Flux,1
+ksauter,QuikSCAT Eastward Near-Surface Wind,1
+ksauter,CERES TOA Outgoing Longwave Radiation,2
+ksauter,CERES TOA Outgoing Shortwave Radiation,2
+ksauter,MLS Specific Humidity,2
+mlinz,CERES TOA Outgoing Shortwave Radiation,19
+jnanteza,GPCP Precipitation Flux,3
+ksauter,ESM2G Total Cloud Fraction,1
+ksauter,ESM2G Sea Surface Temperature,1
+rbuchholz,MODIS Total Cloud Fraction,4
+ksauter,CERES TOA Outgoing Clear-Sky Longwave Radiation,1
+jbrodie,MODIS Total Cloud Fraction,19
+jbrodie,ESM2G Total Cloud Fraction,1
+fpolverari,E2-H Precipitation Flux,6
+jbrodie,HadGEM2-ES Total Cloud Fraction,1
+emaroon,CERES Surface Downwelling Longwave Radiation,9
+fpolverari,E2-H Total Cloud Fraction,1
+emaroon,MLS Air Temperature,4
+emaroon,CERES TOA Outgoing Longwave Radiation,8
+emaroon,CERES TOA Outgoing Shortwave Radiation,6
+emaroon,AIRS Near-Surface Air Temperature,5
+mlinz,GRACE Equivalent Water Height Over Land,1
+fpolverari,ESM2G Vertical Wind Velocity,1
+mlinz,CERES TOA Outgoing Longwave Radiation,4
+fcannon,E2-R Sea Surface Temperature,1
+fcannon,AMSRE Sea Surface Temperature,6
+ochimborazo,ESM2G Precipitation Flux,11
+kzhang,ESM2G Precipitation Flux,6
+btang,E2-R Cloud Liquid Water Content,1
+kzhang,ESM2G Air Temperature,1
+caquilinger,ESM2G Near-Surface Wind Speed,3
+caquilinger,ESM2G Sea Surface Temperature,1
+caquilinger,ESM2G Total Cloud Fraction,1
+ochimborazo,ESM2G Specific Humidity,1
+admin,MODIS Total Cloud Fraction,2
+admin,ESM2G Specific Humidity,2
+btang,GRACE Equivalent Water Height Over Ocean,2
+ochimborazo,TRMM Precipitation Flux,48
+btang,ESM2G Sea Surface Height,1
+btang,AMSRE Sea Surface Temperature,1
+caquilinger,GRACE Equivalent Water Height Over Land,1
+fpolverari,GRACE Equivalent Water Height Over Land,1
+fpolverari,GRACE Equivalent Water Height Over Ocean,1
+fcannon,interim Vertical Wind Velocity,1
+btang,interim Relative Humidity,1
+emaroon,ARGO Ocean Temperature,3
+kzhang,GPCP Precipitation Flux,1
+kzhang,MODIS Total Cloud Fraction,19
+kzhang,AMSRE Sea Surface Temperature,1
+dzermenodia,ESM2G Precipitation Flux,7
+dzermenodia,ESM2G Air Temperature,1
+cmartinezvi,ESM2G Air Temperature,1
+cmartinezvi,ARGO Ocean Temperature,2
+mclavner,ESM2G Precipitation Flux,3
+mclavner,ESM2G Air Temperature,2
+mclavner,E2-H Precipitation Flux,1
+hwei,ESM2G Precipitation Flux,8
+hwei,ESM2G Near-Surface Wind Speed,2
+hwei,ESM2G Air Temperature,1
+hwei,ARGO Ocean Temperature,1
+jteixeira,E2-R Precipitation Flux,1
+jteixeira,GPCP Precipitation Flux,1
+gmarques,ESM2G Precipitation Flux,4
+gmarques,ESM2G Air Temperature,1
+mroge,ESM2G Precipitation Flux,7
+mroge,ESM2G Air Temperature,3
+mroge,E2-R Precipitation Flux,1
+fcannon,ESM2G Vertical Wind Velocity,1
+kzhang,ESM2G Near-Surface Wind Speed,2
+kwillmot,ESM2G Precipitation Flux,2
+kwillmot,ESM2G Near-Surface Wind Speed,2
+abeatriz,ESM2G Precipitation Flux,3
+abeatriz,ESM2G Northward Near-Surface Wind,1
+abeatriz,ESM2G Near-Surface Wind Speed,2
+cmartinezvi,ESM2G Precipitation Flux,2
+cmartinezvi,ESM2G Near-Surface Wind Speed,2
+mroge,ESM2G Near-Surface Wind Speed,2
+gmarques,ESM2G Near-Surface Wind Speed,2
+jgristey,ESM2G Near-Surface Wind Speed,1
+htseng,ESM2G Near-Surface Wind Speed,2
+htseng,ESM2G TOA Outgoing Clear-Sky Shortwave Radiation,1
+ksauter,ESM2G TOA Outgoing Clear-Sky Shortwave Radiation,1
+ksauter,ESM2G Near-Surface Wind Speed,2
+ksauter,ESM2G Surface Temperature,1
+emaroon,ESM2G Near-Surface Wind Speed,2
+emaroon,ESM2G TOA Outgoing Clear-Sky Shortwave Radiation,1
+fpolverari,ESM2G Total Cloud Fraction,1
+fpolverari,ESM2G Near-Surface Wind Speed,2
+ochimborazo,ESM2G Near-Surface Wind Speed,2
+ochimborazo,ESM2G TOA Outgoing Clear-Sky Longwave Radiation,1
+fcannon,ESM2G Near-Surface Wind Speed,3
+jnanteza,ESM2G Near-Surface Wind Speed,4
+jnanteza,ESM2G TOA Outgoing Clear-Sky Shortwave Radiation,1
+jnanteza,ESM2G Sea Surface Height,2
+rbuchholz,ESM2G Precipitation Flux,4
+rbuchholz,ESM2G Near-Surface Wind Speed,1
+mlinz,ESM2G Near-Surface Wind Speed,1
+fcannon,CM3 Surface Temperature,2
+fcannon,CM3 Precipitation Flux,1
+fcannon,E2-R Precipitation Flux,1
+emaroon,CERES Surface Downwelling Shortwave Radiation,1
+gmarques,AVISO Sea Surface Height,1
+jnanteza,CERES Surface Downwelling Shortwave Radiation,3
+dzermenodia,HadGEM2-ES Precipitation Flux,4
+dzermenodia,HadGEM2-ES Total Cloud Fraction,2
+dzermenodia,ESM2G Total Cloud Fraction,4
+dzermenodia,TRMM Precipitation Flux,3
+dzermenodia,MODIS Total Cloud Fraction,2
+dzermenodia,E2-H Precipitation Flux,3
+dzermenodia,E2-R Precipitation Flux,2
+dzermenodia,CAM5 Precipitation Flux,2
+dzermenodia,NORESM Precipitation Flux,4
+dzermenodia,interim Vertical Wind Velocity,1
+admin,ARGO Ocean Temperature,7
+admin,interim Sea Surface Temperature,1
+admin,QuikSCAT Eastward Near-Surface Wind,1
+admin,QuikSCAT Near-Surface Wind Speed,1
+admin,MK3.6 Near-Surface Wind Speed,1
+admin,MK3.6 Cloud Ice Water Content,1
+admin,NODC Ocean Heat Content Anomaly within 2000 m Depth,5
+kzhang,CERES TOA Outgoing Longwave Radiation,7
+kzhang,CERES TOA Outgoing Shortwave Radiation,3
+jbrodie,CAM5 Total Cloud Fraction,4
+jbrodie,CAM5 TOA Outgoing Longwave Radiation,4
+abeatriz,CERES TOA Outgoing Shortwave Radiation,1
+jbrodie,CERES TOA Outgoing Longwave Radiation,11
+rbuchholz,AMSRE Sea Surface Temperature,1
+rbuchholz,AIRS Specific Humidity,1
+fpolverari,GPCP Precipitation Flux,3
+ochimborazo,ESM2G Surface Temperature,2
+ochimborazo,AMSRE Sea Surface Temperature,74
+emaroon,MODIS Leaf Area Index,1
+jbrodie,E2-H Total Cloud Fraction,7
+jbrodie,E2-H TOA Outgoing Longwave Radiation,7
+ochimborazo,MODIS Total Cloud Fraction,40
+ochimborazo,ESM2G Sea Surface Height,1
+hwei,HadGEM2-ES Precipitation Flux,2
+cmartinezvi,ESM2G TOA Incident Shortwave Radiation,2
+jgristey,ESM2G TOA Incident Shortwave Radiation,1
+fpolverari,E2-R Precipitation Flux,1
+fpolverari,CAM5 Precipitation Flux,1
+fpolverari,NORESM Precipitation Flux,1
+fpolverari,HadGEM2-ES Precipitation Flux,2
+dzermenodia,E2-H Total Cloud Fraction,3
+dzermenodia,E2-R Total Cloud Fraction,2
+dzermenodia,CAM5 Total Cloud Fraction,2
+abeatriz,ARGO Ocean Temperature,11
+dzermenodia,NORESM Total Cloud Fraction,2
+emaroon,CERES TOA Incident Shortwave Radiation,1
+hwei,GPCP Precipitation Flux,1
+ochimborazo,GRACE Equivalent Water Height Over Land,1
+ochimborazo,GRACE Equivalent Water Height Over Ocean,1
+mroge,QuikSCAT Near-Surface Wind Speed,1
+fpolverari,QuikSCAT Northward Near-Surface Wind,1
+htseng,CERES Surface Downwelling Shortwave Radiation,1
+htseng,CERES TOA Incident Shortwave Radiation,1
+fpolverari,interim Eastward Near-Surface Wind,1
+fpolverari,interim Near-Surface Wind Speed,1
+fpolverari,interim Northward Near-Surface Wind,1
+kzhang,ARGO Ocean Temperature,2
+emaroon,CERES TOA Outgoing Clear-Sky Longwave Radiation,3
+emaroon,CERES TOA Outgoing Clear-Sky Shortwave Radiation,1
+ochimborazo,GPCP Precipitation Flux,3
+ochimborazo,QuikSCAT Eastward Near-Surface Wind,2
+ochimborazo,QuikSCAT Northward Near-Surface Wind,1
+ochimborazo,QuikSCAT Near-Surface Wind Speed,1
+ochimborazo,AVISO Sea Surface Height,1
+ochimborazo,NODC Ocean Heat Content Anomaly within 700 m Depth,1
+ochimborazo,NODC Ocean Heat Content Anomaly within 2000 m Depth,2
+ochimborazo,CERES Surface Downwelling Longwave Radiation,1
+ochimborazo,MLS Air Temperature,1
+ochimborazo,MLS Specific Humidity,1
+ochimborazo,ARGO Ocean Temperature,3
+,Check Total:,2804
+,,
