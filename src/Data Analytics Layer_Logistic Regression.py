@@ -3,7 +3,7 @@
 """
 Author: Dennis/JIAJIE LIANG
 Created: 10/30/2015
-FileName: Data Analytics Layer.py
+FileName: Data Analytics Layer: LogisticRegression.py
 """
 
 # sklearn library
@@ -40,7 +40,7 @@ def LogisticRegression():
     df3.to_csv("NewForm1WithExecutionTime.csv")
 
     # Data Pre-Processing: Join the Climate Dataset table to feature to train
-    df4 = pd.read_csv("/Users/dennis/Documents/SVM-Tasks/Climate_Datasets.csv")
+    df4 = pd.read_csv("../storage/Climate_Datasets.csv")
 
     # Encoding: Grouping    
     df4['Dataset Group'] = df4['Dataset Group'].map(datasetgrouping)
@@ -58,7 +58,7 @@ def LogisticRegression():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4)
 
     # Pipeline building
-    pipeline = Pipeline([('vect', TfidfVectorizer(stop_words = 'english', lowercase = False)), ('clf', SVC(kernel=['rbf', 'linear'], gamma=0.01, C=100, max_iter = 100))])
+    pipeline = Pipeline(['vect', TfidfVectorizer()), ('clf', LogisticRegression())])
 
     # Check the training data shape
     print X_train.shape
